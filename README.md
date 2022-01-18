@@ -2,15 +2,14 @@
 
 # Step to run
 
-## Require setting up the development environment
-
-##Step1
-* Refer to the following link *
+## Step1
+**Require setting up the development environment**
+**Refer to the following link** 
 [React Native Setup](https://reactnative.dev/docs/environment-setup).
-###Step2
+## Step2
 
 ```
 npm run install
 ```
 
-## For ios
+#### For ios
