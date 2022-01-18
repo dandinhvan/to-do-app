@@ -4,8 +4,8 @@
 
 ## Require setting up the development environment
 
-###Step1
-** Refer to the following link **
+##Step1
+* Refer to the following link *
 [React Native Setup](https://reactnative.dev/docs/environment-setup).
 ###Step2
 
